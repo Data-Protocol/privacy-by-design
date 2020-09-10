@@ -1,0 +1,94 @@
+{
+  "description": "Privacy by Design Workbook.  This json file records the application of Privacy by Design principles and best practices on the current project.  Please complete the following sections",
+  "proactive": {
+    "title": "Application of Principle 1 - \"Proactive not Reactive\"",
+    "actions": [
+      {
+        "slogan": "Name the best practice action with a short slogan",
+        "action": "Describe the action"
+      },
+      {
+        "slogan": "Name the best practice action with a short slogan",
+        "action": "Describe the action and so on"
+      }
+    ]
+  },
+  "default": {
+    "title": "Application of Principle 2 - \"Privacy as the Default\"",
+    "actions": [
+      {
+        "slogan": "Name the best practice action with a short slogan",
+        "action": "Describe the action"
+      },
+      {
+        "slogan": "Name the best practice action with a short slogan",
+        "action": "Describe the action and so on"
+      }
+    ]
+  },
+  "embedded": {
+    "title": "Application of Principle 3 - \"Privacy Embedded in Design\"",
+    "actions": [
+      {
+        "slogan": "Name the best practice action with a short slogan",
+        "action": "Describe the action"
+      },
+      {
+        "slogan": "Name the best practice action with a short slogan",
+        "action": "Describe the action and so on"
+      }
+    ]
+  },
+  "full": {
+    "title": "Application of Principle 4 - \"Retain Full Functionality\"",
+    "actions": [
+      {
+        "slogan": "Name the best practice action with a short slogan",
+        "action": "Describe the action"
+      },
+      {
+        "slogan": "Name the best practice action with a short slogan",
+        "action": "Describe the action and so on"
+      }
+    ]
+  },
+  "security": {
+    "title": "Application of Principle 5 - \"End-to-End Security\"",
+    "actions": [
+      {
+        "slogan": "Name the best practice action with a short slogan",
+        "action": "Describe the action"
+      },
+      {
+        "slogan": "Name the best practice action with a short slogan",
+        "action": "Describe the action and so on"
+      }
+    ]
+  },
+  "visibility": {
+    "title": "Application of Principle 6 - \"Visibility and Transparency\"",
+    "actions": [
+      {
+        "slogan": "Name the best practice action with a short slogan",
+        "action": "Describe the action"
+      },
+      {
+        "slogan": "Name the best practice action with a short slogan",
+        "action": "Describe the action and so on"
+      }
+    ]
+  },
+  "respect": {
+    "title": "Application of Principle 7 - \"Respect for User Privacy\"",
+    "actions": [
+      {
+        "slogan": "Name the best practice action with a short slogan",
+        "action": "Describe the action"
+      },
+      {
+        "slogan": "Name the best practice action with a short slogan",
+        "action": "Describe the action and so on"
+      }
+    ]
+  }
+}
