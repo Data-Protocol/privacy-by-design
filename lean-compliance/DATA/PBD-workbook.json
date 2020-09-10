@@ -4,8 +4,8 @@
     "title": "Application of Principle 1 - \"Proactive not Reactive\"",
     "actions": [
       {
-        "slogan": "Name the best practice action with a short slogan",
-        "action": "Describe the action"
+        "slogan": "mask ip address",
+        "action": "Never store the IP address raw since it is PII, always mask top 2 octets"
       },
       {
         "slogan": "Name the best practice action with a short slogan",
