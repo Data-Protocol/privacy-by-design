@@ -1,0 +1,38 @@
+{
+  "ref": "https://ux.shopify.com/designing-address-forms-for-everyone-everywhere-f481f6baf513",
+  "contact": {
+    "name": "full name",
+    "addr1": "first line of address",
+    "addr2": "second line of address",
+    "city": "city",
+    "state": "state or county",
+    "country": "country",
+    "zip": "zip or postal or postal code",
+    "email": "email address",
+    "phone": "+XXXXXXXXXXX"
+  },
+  "dpo": {
+    "needed": "true | false",
+    "name": "full name",
+    "addr1": "first line of address",
+    "addr2": "second line of address",
+    "city": "city",
+    "state": "state or county",
+    "country": "country",
+    "zip": "zip or postal or postal code",
+    "email": "email address",
+    "phone": "+XXXXXXXXXXX"
+  },
+  "representative": {
+    "needed": "true | false",
+    "name": "full name",
+    "addr1": "first line of address",
+    "addr2": "second line of address",
+    "city": "city",
+    "state": "state or county",
+    "country": "country",
+    "zip": "zip or postal or postal code",
+    "email": "email address",
+    "phone": "+XXXXXXXXXXX"
+  }
+}

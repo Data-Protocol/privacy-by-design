@@ -1,0 +1,57 @@
+{
+  "name": "data object name",
+  "description": "this is the template file for the generic data object type",
+  "collection": [
+    {
+      "statement": "Only legally compliant data is collected",
+      "compliance": "true | false | partial",
+      "how": "describe steps taken to ensure"
+    }
+  ],
+
+  "maintenance": [
+    {
+      "statement": "Data is cleaned, combined, masked/anonymized where possible",
+      "compliance": "true | false | partial",
+      "how": "describe steps taken to ensure"
+    }
+  ],
+  "storage": [
+    {
+      "statement": "Only data needing storage is stored",
+      "compliance": "true | false | partial",
+      "how": "describe steps taken to ensure"
+    }
+  ],
+  "usage": [
+    {
+      "statement": "Only people who need access to data have access",
+      "compliance": "true | false | partial",
+      "how": "describe steps taken to ensure"
+    }
+  ],
+  "publication": [
+    {
+      "statement": "Data is only shared to legally compliant partners",
+      "compliance": "true | false | partial",
+      "how": "describe steps taken to ensure"
+    }
+  ],
+  "archive": [
+    {
+      "statement": "Only data needing archiving is archived",
+      "compliance": "true | false | partial",
+      "how": "describe steps taken to ensure"
+    }
+  ],
+  "erasure": [
+    {
+      "statement": "Data is erased as soon as possible",
+      "compliance": "true | false | partial",
+      "how": "describe steps taken to ensure"
+    }
+  ],
+  "templates": {
+    "global": ["generic-contacts.json"]
+  }
+}

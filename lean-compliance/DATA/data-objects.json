@@ -1,0 +1,15 @@
+{
+  "description": "this is the template file for the list of the data objects existing in the current project and there associated types (an array of many if needed)",
+  "dataObjects": [
+    {
+      "name": "data object name",
+      "description": "description of data object",
+      "type": ["generic"]
+    },
+    {
+      "name": "data object using pytorch",
+      "description": "description of data object using pytorch",
+      "type": ["pytorch"]
+    }
+  ]
+}
